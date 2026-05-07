@@ -1,0 +1,14 @@
+dataset	column_name	type	required	description	example	goal_link
+relationship_seed.tsv	agent_id	string	yes	対象エージェントID	ISS03	孤立低減
+relationship_seed.tsv	trust_anchor_ids	csv(string)	yes	初期的に安心しやすい相手ID	ISS02,ISS04	橋渡し増加
+relationship_seed.tsv	friction_anchor_ids	csv(string)	no	誤解/反発が起きやすい相手ID	ISS08	修復導線
+relationship_seed.tsv	language_style	enum	yes	話法傾向（短文/内省/調停など）	reflective	摩擦抑制
+relationship_seed.tsv	notes	text	no	文脈メモ	年長者助言に安心しやすい	解釈安定
+chronic_stress_event_templates.tsv	template_id	string	yes	慢性ストレステンプレートID	CS03	再現性
+chronic_stress_event_templates.tsv	trigger_window	string	yes	発火期間（dayX-dayY）	day28-day35	時系列妥当性
+chronic_stress_event_templates.tsv	stressor_type	enum	yes	負荷タイプ	privacy_conflict	現実性
+chronic_stress_event_templates.tsv	intensity	enum	yes	負荷強度（low/medium/high）	medium	負荷調整
+chronic_stress_event_templates.tsv	recovery_nudge	text	yes	回復ナッジ	静穏時間の交代制	良い副作用
+time_schedule.tsv	静穏時間帯	string	yes	ノイズ抑制時間帯	21:30-06:30	感情安定
+time_schedule.tsv	共同食タイミング	string	yes	関係接点の定期機会	12:30+19:00	善性伝播
+time_schedule.tsv	個室ローテ優先	string	yes	個室利用優先グループ	[ISS01,ISS02,ISS08]	公平性

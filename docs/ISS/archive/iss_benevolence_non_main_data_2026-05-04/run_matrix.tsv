@@ -1,0 +1,13 @@
+run_id	provider	config_path	duration	objects_enabled	purpose
+claude_smoke_a	claude	examples/spatial_demo/configs/config.iss.claude.smoke.run_a.yaml	4	no	quick sanity check (control)
+claude_smoke_b	claude	examples/spatial_demo/configs/config.iss.claude.smoke.run_b.yaml	4	yes	quick sanity check (treatment)
+claude_full_a	claude	examples/spatial_demo/configs/config.iss.claude.run_a.yaml	50	no	main comparison control
+claude_full_b	claude	examples/spatial_demo/configs/config.iss.claude.run_b.yaml	50	yes	main comparison treatment
+codex_smoke_a	codex	examples/spatial_demo/configs/config.iss.codex.smoke.run_a.yaml	4	no	quick sanity check (control)
+codex_smoke_b	codex	examples/spatial_demo/configs/config.iss.codex.smoke.run_b.yaml	4	yes	quick sanity check (treatment)
+codex_full_a	codex	examples/spatial_demo/configs/config.iss.codex.run_a.yaml	50	no	main comparison control
+codex_full_b	codex	examples/spatial_demo/configs/config.iss.codex.run_b.yaml	50	yes	main comparison treatment
+cursor_smoke_a	cursor	examples/spatial_demo/configs/config.iss.cursor.smoke.run_a.yaml	4	no	quick sanity check (control)
+cursor_smoke_b	cursor	examples/spatial_demo/configs/config.iss.cursor.smoke.run_b.yaml	4	yes	quick sanity check (treatment)
+cursor_full_a	cursor	examples/spatial_demo/configs/config.iss.cursor.run_a.yaml	50	no	main comparison control
+cursor_full_b	cursor	examples/spatial_demo/configs/config.iss.cursor.run_b.yaml	50	yes	main comparison treatment

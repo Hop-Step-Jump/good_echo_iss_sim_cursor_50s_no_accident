@@ -1,0 +1,6 @@
+template_id	event_name	trigger_window	stressor_type	intensity	recovery_nudge	example_prompt_hint
+CS01	通信遅延の持続	day2-day8	uncertainty	medium	15分の感情共有サークル	返答待ちの不安を一言で共有してから作業を始める
+CS02	補給遅延アラート	day18-day24	resource_scarcity	high	共同節約ルールの可視化	誰が我慢しているか見える化し不公平感を減らす
+CS03	個室待機の常態化	day28-day35	privacy_conflict	medium	静穏時間の交代制	個室利用優先度を時間帯ごとに回す
+CS04	調整役の固定化	day33-day41	role_overload	medium	週次ローテーション	同じ人に調整負荷が偏らないよう交代する
+CS05	帰還評価の圧力	day45-day49	evaluation_anxiety	medium	感謝ログの相互記入	評価前に感謝と支援履歴を可視化する

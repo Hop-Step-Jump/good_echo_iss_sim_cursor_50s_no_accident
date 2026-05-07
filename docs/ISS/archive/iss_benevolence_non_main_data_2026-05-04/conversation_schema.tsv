@@ -1,0 +1,21 @@
+field	type	required	description
+schema_note	string	no	互換用の統合schema。主線では message_schema.tsv と conversation_thread_schema.tsv を正とする。
+message_id	string	yes	発話1件の一意ID。例: msg_step013_ISS09_ISS03_01
+conversation_id	string	yes	同じ会話スレッドを束ねるID。複数発話で共有する。
+step	integer	yes	発話が起きたステップ。
+run_id	string	no	run_a/run_b などの実行条件ID。
+speaker_id	string	yes	発話者の agent_id。
+listener_ids	string	yes	受け手の agent_id。複数の場合はセミコロン区切り。
+module_id	string	no	会話が起きた場所/モジュールID。
+event_id	string	no	関連する event_id。摩擦/修復/オブジェクトイベントと結びつける。
+tone	string	yes	normal/nudge/caution/trouble/repair のいずれか。
+utterance	string	yes	UIに表示する観測発話。
+is_observed	boolean	yes	実際の観測会話ならtrue。内面・想像・要約ならfalse。
+source	string	yes	llm/scripted/ui_demo/imported など生成元。
+conversation_type	string	no	routine/support/conflict/repair/object_mediated などの会話種別。
+status	string	no	open/repaired/unresolved などの状態。
+summary	string	no	会話スレッドの短い要約。
+detail	string	no	会話スレッドの詳細説明。UIの詳細展開に使う。
+evidence_message_ids	string	no	要約/詳細の根拠になったmessage_id。セミコロン区切り。
+summary_source	string	no	scripted_summary/llm_summary/imported_summary など。
+detail_source	string	no	scripted_detail/llm_detail/imported_detail など。
