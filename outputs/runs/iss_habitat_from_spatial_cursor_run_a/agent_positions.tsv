@@ -1,0 +1,501 @@
+step	agent_id	module_id	x	y	stress	is_isolated	active_event_ids
+1	ISS00	common_area	51.93	49.33	56.8	false	
+1	ISS01	common_area	47.03	48.68	67.7	false	
+1	ISS02	common_area	51.74	54.11	66.2	false	
+1	ISS03	cupola	50.97	24.08	57.2	false	
+1	ISS04	common_area	48.18	50.93	37.2	false	
+1	ISS05	common_area	53.13	50.9	57.4	false	
+1	ISS06	common_area	47.7	46.17	43.2	false	
+1	ISS07	common_area	48.82	55.55	44.4	false	
+1	ISS08	common_area	51.68	48.83	58.5	false	
+1	ISS09	common_area	46.78	49.55	45.3	false	
+2	ISS00	common_area	51.61	48.74	58.9	false	
+2	ISS01	common_area	46.76	49.72	45.7	false	
+2	ISS02	common_area	52.99	53.32	68.4	false	
+2	ISS03	common_area	50.1	44.33	52.6	false	
+2	ISS04	common_area	48.58	51.47	53.3	false	
+2	ISS05	common_area	53.25	49.83	55.6	false	
+2	ISS06	common_area	46.58	47.13	50.6	false	
+2	ISS07	common_area	50.69	55.63	42.5	false	
+2	ISS08	common_area	51.2	48.34	60.5	false	
+2	ISS09	common_area	46.8	50.62	53.4	false	
+3	ISS00	common_area	51.11	48.28	63.2	false	
+3	ISS01	common_area	46.84	50.79	55.4	false	
+3	ISS02	common_area	53.9	52.16	63.1	false	
+3	ISS03	common_area	48.25	44.6	59.7	false	
+3	ISS04	common_area	49.14	51.85	44.9	false	
+3	ISS05	common_area	53.02	48.78	64.1	false	
+3	ISS06	common_area	45.83	48.4	45.2	false	
+3	ISS07	common_area	52.49	55.1	45.6	false	
+3	ISS08	common_area	50.6	48.04	57.5	false	
+3	ISS09	common_area	47.18	51.63	33.0	false	
+4	ISS00	common_area	50.49	48.01	43.7	false	
+4	ISS01	common_area	47.27	51.77	50.4	false	
+4	ISS02	common_area	54.4	50.78	54.4	false	
+4	ISS03	common_area	46.59	45.47	59.4	false	
+4	ISS04	common_area	49.79	52.03	57.6	false	
+4	ISS05	common_area	52.46	47.86	67.3	false	
+4	ISS06	common_area	45.54	49.84	39.5	false	
+4	ISS07	common_area	54.01	54.01	57.5	false	
+4	ISS08	common_area	49.93	47.96	57.5	false	
+4	ISS09	common_area	47.86	52.46	39.4	false	
+5	ISS00	common_area	49.82	47.96	49.0	false	
+5	ISS01	common_area	48.0	52.56	65.7	false	
+5	ISS02	common_area	54.41	49.3	59.3	false	
+5	ISS03	common_area	45.3	46.83	72.3	false	
+5	ISS04	common_area	50.46	51.99	50.4	false	
+5	ISS05	common_area	51.63	47.18	55.2	false	
+5	ISS06	common_area	45.73	51.31	52.5	false	
+5	ISS07	common_area	55.1	52.49	58.5	false	
+5	ISS08	common_area	49.27	48.09	65.4	false	
+5	ISS09	common_area	48.78	53.02	52.5	false	
+6	ISS00	crew_quarters	26.33	33.57	62.7	true	
+6	ISS01	common_area	48.94	53.08	71.4	false	
+6	ISS02	common_area	53.94	47.9	74.5	false	
+6	ISS03	common_area	44.52	48.53	73.9	false	
+6	ISS04	common_area	51.08	51.74	40.0	false	
+6	ISS05	common_area	50.62	46.8	57.7	false	
+6	ISS06	common_area	46.39	52.62	55.0	false	
+6	ISS07	common_area	55.63	50.69	52.2	false	
+6	ISS08	common_area	48.68	48.43	51.1	false	
+6	ISS09	common_area	49.83	53.25	51.4	false	
+7	ISS00	crew_quarters	26.05	33.75	44.9	false	
+7	ISS01	common_area	50.0	53.26	53.7	false	
+7	ISS02	common_area	53.04	46.74	62.1	false	
+7	ISS03	common_area	44.34	50.4	58.4	false	
+7	ISS04	common_area	51.59	51.29	39.3	false	
+7	ISS05	common_area	49.55	46.78	49.5	false	
+7	ISS06	common_area	47.44	53.66	45.4	false	
+7	ISS07	common_area	55.55	48.82	41.7	false	
+7	ISS08	common_area	48.25	48.95	65.3	false	
+7	ISS09	common_area	50.9	53.13	47.0	false	
+8	ISS00	crew_quarters	25.85	34.02	46.1	false	
+8	ISS01	common_area	51.06	53.08	46.0	false	
+8	ISS02	common_area	51.82	45.92	66.4	false	
+8	ISS03	common_area	44.78	52.22	59.7	false	
+8	ISS04	common_area	51.92	50.7	35.1	false	
+8	ISS05	common_area	48.52	47.1	58.6	false	
+8	ISS06	common_area	48.77	54.29	51.9	false	
+8	ISS07	common_area	54.86	47.08	44.2	false	
+8	ISS08	common_area	48.0	49.57	61.4	false	
+8	ISS09	common_area	51.87	52.67	40.0	false	
+9	ISS00	crew_quarters	25.74	34.34	49.6	false	
+9	ISS01	common_area	52.0	52.56	53.3	false	
+9	ISS02	common_area	50.39	45.55	56.0	false	CONF01
+9	ISS03	common_area	45.78	53.8	65.6	false	
+9	ISS04	common_area	52.05	50.04	36.3	false	
+9	ISS05	common_area	47.66	47.74	49.9	false	
+9	ISS06	common_area	50.23	54.46	42.2	false	
+9	ISS07	common_area	53.65	45.65	62.6	false	CONF01
+9	ISS08	common_area	47.97	50.25	60.4	false	
+9	ISS09	common_area	52.63	51.91	45.8	false	
+10	ISS00	crew_quarters	25.74	34.68	59.2	true	
+10	ISS01	common_area	52.73	51.77	62.5	false	
+10	ISS02	common_area	48.92	45.67	73.5	false	CONF01
+10	ISS03	common_area	47.25	54.96	61.0	false	
+10	ISS04	common_area	51.95	49.37	42.7	false	
+10	ISS05	common_area	47.05	48.62	64.9	false	
+10	ISS06	common_area	51.67	54.14	42.7	false	
+10	ISS07	common_area	52.03	44.7	50.8	false	CONF01
+10	ISS08	common_area	48.16	50.9	52.6	false	
+10	ISS09	common_area	53.11	50.95	50.4	false	
+11	ISS00	crew_quarters	25.86	35.0	51.0	false	
+11	ISS01	common_area	53.16	50.79	52.8	false	
+11	ISS02	common_area	47.57	46.26	54.3	false	REPA01
+11	ISS03	common_area	49.01	55.59	56.8	false	
+11	ISS04	common_area	51.63	48.77	41.2	false	
+11	ISS05	common_area	46.76	49.66	55.2	false	
+11	ISS06	common_area	52.93	53.37	37.2	false	
+11	ISS07	common_area	50.2	44.33	42.8	false	REPA01
+11	ISS08	common_area	48.55	51.45	65.6	false	
+11	ISS09	common_area	53.25	49.89	46.5	false	
+12	ISS00	crew_quarters	26.07	35.26	64.6	true	
+12	ISS01	common_area	53.24	49.72	55.1	false	
+12	ISS02	common_area	46.48	47.25	71.1	false	REPA01
+12	ISS03	common_area	50.89	55.6	72.7	false	
+12	ISS04	common_area	51.14	48.3	59.7	false	
+12	ISS05	common_area	46.83	50.73	62.0	false	
+12	ISS06	common_area	53.87	52.23	55.1	false	
+12	ISS07	common_area	48.34	44.57	52.5	false	REPA01
+12	ISS08	common_area	49.1	51.84	70.0	false	
+12	ISS09	common_area	53.04	48.83	55.8	false	
+13	ISS00	common_area	49.2	51.88	63.8	false	
+13	ISS01	common_area	52.97	48.68	60.4	false	
+13	ISS02	common_area	45.78	48.55	70.8	false	REPA01
+13	ISS03	common_area	52.66	55.01	71.9	false	CONF02
+13	ISS04	common_area	50.53	48.02	37.5	false	
+13	ISS05	common_area	47.24	51.72	53.3	false	
+13	ISS06	common_area	54.38	50.85	38.9	false	
+13	ISS07	common_area	46.67	45.41	62.1	false	REPA01
+13	ISS08	common_area	49.75	52.03	63.0	false	
+13	ISS09	common_area	52.49	47.91	52.9	false	CONF02
+14	ISS00	hab_module	26.63	51.7	47.3	false	
+14	ISS01	common_area	52.38	47.78	50.0	false	
+14	ISS02	common_area	45.54	50.0	65.8	false	
+14	ISS03	common_area	54.15	53.87	68.8	false	CONF02
+14	ISS04	common_area	49.86	47.96	29.9	false	
+14	ISS05	common_area	47.95	52.53	48.1	false	
+14	ISS06	common_area	54.42	49.38	56.8	false	
+14	ISS07	common_area	45.35	46.75	41.5	false	
+14	ISS08	common_area	50.43	52.0	59.9	false	
+14	ISS09	common_area	51.68	47.21	58.4	false	CONF02
+15	ISS00	hab_module	27.19	51.65	61.1	false	
+15	ISS01	common_area	51.53	47.13	47.8	false	
+15	ISS02	common_area	45.78	51.45	58.4	false	
+15	ISS03	common_area	55.18	52.31	78.5	false	CONF02
+15	ISS04	common_area	49.2	48.12	33.4	false	
+15	ISS05	common_area	48.89	53.06	53.7	false	
+15	ISS06	common_area	53.98	47.97	50.3	false	
+15	ISS07	common_area	44.55	48.44	57.7	false	
+15	ISS08	common_area	51.05	51.75	57.8	false	
+15	ISS09	common_area	50.68	46.82	51.9	false	CONF02
+16	ISS00	hab_module	27.7	51.41	62.3	false	
+16	ISS01	common_area	50.51	46.79	65.3	false	
+16	ISS02	common_area	46.48	52.75	52.4	false	
+16	ISS03	common_area	55.65	50.49	61.5	false	REPA02
+16	ISS04	common_area	48.63	48.48	34.2	false	
+16	ISS05	common_area	49.94	53.25	63.3	false	
+16	ISS06	common_area	53.1	46.79	48.6	false	
+16	ISS07	common_area	44.33	50.3	51.9	false	
+16	ISS08	common_area	51.57	51.32	61.7	false	
+16	ISS09	common_area	49.6	46.77	31.8	false	REPA02
+17	ISS00	hab_module	28.11	51.03	56.1	false	
+17	ISS01	common_area	49.43	46.79	66.5	false	
+17	ISS02	common_area	47.57	53.74	73.3	false	
+17	ISS03	common_area	55.5	48.63	60.0	false	REPA02
+17	ISS04	common_area	48.21	49.01	46.0	false	
+17	ISS05	common_area	51.01	53.1	61.7	false	
+17	ISS06	common_area	51.89	45.95	43.9	false	
+17	ISS07	common_area	44.74	52.13	37.9	false	
+17	ISS08	common_area	51.91	50.73	59.3	false	
+17	ISS09	common_area	48.57	47.07	39.9	false	REPA02
+18	ISS00	hab_module	28.37	50.53	59.2	false	
+18	ISS01	common_area	48.42	47.15	50.1	false	
+18	ISS02	common_area	48.92	54.33	55.4	false	
+18	ISS03	common_area	54.76	46.91	68.2	false	REPA02
+18	ISS04	common_area	47.99	49.64	48.4	false	
+18	ISS05	common_area	51.96	52.6	56.0	false	
+18	ISS06	common_area	50.47	45.56	44.4	false	
+18	ISS07	common_area	45.72	53.72	60.8	false	
+18	ISS08	common_area	52.04	50.07	52.2	false	
+18	ISS09	common_area	47.7	47.7	40.2	false	REPA02
+19	ISS00	hab_module	28.45	49.97	58.2	false	
+19	ISS01	common_area	47.58	47.82	58.4	false	
+19	ISS02	common_area	50.39	54.45	63.0	false	
+19	ISS03	common_area	53.49	45.53	57.4	false	
+19	ISS04	common_area	47.98	50.32	40.2	false	
+19	ISS05	common_area	52.7	51.82	52.8	false	
+19	ISS06	common_area	49.0	45.65	57.2	false	
+19	ISS07	common_area	47.16	54.91	55.9	false	
+19	ISS08	common_area	51.96	49.4	56.5	false	
+19	ISS09	common_area	47.07	48.57	41.4	false	
+20	ISS00	hab_module	28.35	49.42	60.1	false	
+20	ISS01	common_area	47.0	48.73	72.2	false	
+20	ISS02	common_area	51.82	54.08	62.7	false	CONF03
+20	ISS03	common_area	51.85	44.64	63.9	false	
+20	ISS04	common_area	48.19	50.96	45.5	false	
+20	ISS05	common_area	53.14	50.84	59.1	false	CONF03
+20	ISS06	common_area	47.63	46.21	46.7	false	
+20	ISS07	common_area	48.92	55.57	54.2	false	
+20	ISS08	common_area	51.66	48.8	65.2	false	
+20	ISS09	common_area	46.77	49.6	41.2	false	
+21	ISS00	hab_module	28.08	48.93	54.7	false	
+21	ISS01	common_area	46.75	49.77	55.5	false	
+21	ISS02	common_area	53.04	53.26	61.0	false	CONF03
+21	ISS03	common_area	50.0	44.33	68.5	false	
+21	ISS04	common_area	48.6	51.5	40.2	false	
+21	ISS05	common_area	53.25	49.77	69.3	false	CONF03
+21	ISS06	common_area	46.53	47.19	40.5	false	
+21	ISS07	common_area	50.79	55.62	47.9	false	
+21	ISS08	common_area	51.17	48.32	45.8	false	
+21	ISS09	common_area	46.82	50.68	47.3	false	
+22	ISS00	hab_module	27.65	48.55	43.8	false	
+22	ISS01	common_area	46.86	50.84	47.7	false	
+22	ISS02	common_area	53.94	52.1	77.0	false	CONF03
+22	ISS03	common_area	48.15	44.64	65.1	false	
+22	ISS04	common_area	49.17	51.87	32.9	false	
+22	ISS05	common_area	53.0	48.73	64.2	false	CONF03
+22	ISS06	common_area	45.81	48.47	44.1	false	
+22	ISS07	common_area	52.58	55.05	44.0	false	
+22	ISS08	common_area	50.56	48.03	62.0	false	
+22	ISS09	common_area	47.21	51.68	35.6	false	
+23	ISS00	hab_module	27.13	48.34	41.3	false	
+23	ISS01	common_area	47.3	51.82	63.1	false	
+23	ISS02	common_area	54.41	50.7	56.0	false	REPA03
+23	ISS03	common_area	46.51	45.53	58.8	false	
+23	ISS04	common_area	49.82	52.04	44.8	false	
+23	ISS05	common_area	52.42	47.82	53.6	false	REPA03
+23	ISS06	common_area	45.54	49.92	53.6	false	
+23	ISS07	common_area	54.08	53.94	39.6	false	
+23	ISS08	common_area	49.89	47.96	51.0	false	
+23	ISS09	common_area	47.91	52.49	52.5	false	
+24	ISS00	hab_module	26.57	48.3	52.5	false	
+24	ISS01	common_area	48.04	52.6	65.3	false	
+24	ISS02	common_area	54.4	49.22	65.5	false	REPA03
+24	ISS03	common_area	45.24	46.91	69.6	false	
+24	ISS04	common_area	50.49	51.99	49.4	false	
+24	ISS05	common_area	51.58	47.15	48.7	false	REPA03
+24	ISS06	common_area	45.75	51.38	48.8	false	
+24	ISS07	common_area	55.14	52.4	53.9	false	
+24	ISS08	common_area	49.23	48.1	56.5	false	
+24	ISS09	common_area	48.83	53.04	52.1	false	
+25	ISS00	hab_module	26.03	48.45	51.6	false	
+25	ISS01	common_area	48.99	53.1	60.0	false	
+25	ISS02	common_area	53.9	47.84	55.7	false	REPA03
+25	ISS03	common_area	44.5	48.63	59.6	false	
+25	ISS04	common_area	51.11	51.72	44.5	false	
+25	ISS05	common_area	50.57	46.79	64.1	false	REPA03
+25	ISS06	common_area	46.43	52.69	49.8	false	
+25	ISS07	common_area	55.64	50.59	48.5	false	
+25	ISS08	common_area	48.66	48.46	56.3	false	
+25	ISS09	common_area	49.89	53.25	35.7	false	
+26	ISS00	hab_module	25.57	48.77	51.6	false	
+26	ISS01	common_area	50.06	53.25	52.0	false	
+26	ISS02	common_area	52.99	46.68	59.2	false	
+26	ISS03	common_area	44.35	50.49	71.3	false	
+26	ISS04	common_area	51.61	51.26	50.2	false	
+26	ISS05	common_area	49.49	46.79	51.0	false	
+26	ISS06	common_area	47.5	53.7	42.4	false	
+26	ISS07	common_area	55.53	48.72	51.5	false	
+26	ISS08	common_area	48.23	48.98	65.0	false	
+26	ISS09	common_area	50.95	53.11	50.6	false	
+27	ISS00	hab_module	25.23	49.23	71.7	false	CONF04
+27	ISS01	common_area	51.11	53.06	58.7	false	
+27	ISS02	common_area	51.74	45.89	72.9	false	
+27	ISS03	common_area	44.82	52.31	58.3	false	
+27	ISS04	common_area	51.93	50.67	57.1	false	
+27	ISS05	common_area	48.47	47.13	61.7	false	
+27	ISS06	common_area	48.84	54.31	41.1	false	
+27	ISS07	common_area	54.81	46.99	53.3	false	
+27	ISS08	common_area	47.99	49.61	61.8	false	CONF04
+27	ISS09	common_area	51.91	52.63	46.5	false	
+28	ISS00	hab_module	25.06	49.76	62.2	false	CONF04
+28	ISS01	common_area	52.05	52.53	58.0	false	
+28	ISS02	common_area	50.31	45.55	67.4	false	
+28	ISS03	common_area	45.85	53.87	65.3	false	
+28	ISS04	common_area	52.05	50.0	35.0	false	
+28	ISS05	common_area	47.62	47.78	60.3	false	
+28	ISS06	common_area	50.31	54.45	54.8	false	
+28	ISS07	common_area	53.57	45.59	37.0	false	
+28	ISS08	common_area	47.97	50.28	74.8	false	CONF04
+28	ISS09	common_area	52.67	51.87	39.0	false	
+29	ISS00	hab_module	25.08	50.33	54.6	false	CONF04
+29	ISS01	common_area	52.76	51.72	62.5	false	
+29	ISS02	common_area	48.84	45.69	53.4	false	
+29	ISS03	common_area	47.34	55.01	52.1	false	
+29	ISS04	common_area	51.93	49.33	38.7	false	
+29	ISS05	common_area	47.03	48.68	64.5	false	
+29	ISS06	common_area	51.74	54.11	43.5	false	
+29	ISS07	common_area	51.94	44.67	40.3	false	
+29	ISS08	common_area	48.18	50.93	69.4	false	CONF04
+29	ISS09	common_area	53.13	50.9	35.7	false	
+30	ISS00	hab_module	25.27	50.85	43.0	false	REPA04
+30	ISS01	common_area	53.17	50.73	50.9	false	
+30	ISS02	common_area	47.5	46.3	53.6	false	
+30	ISS03	common_area	49.11	55.6	60.0	false	
+30	ISS04	common_area	51.61	48.74	50.0	false	
+30	ISS05	common_area	46.76	49.72	61.7	false	
+30	ISS06	common_area	52.99	53.32	48.0	false	
+30	ISS07	common_area	50.1	44.33	55.4	false	
+30	ISS08	common_area	48.58	51.47	60.4	false	REPA04
+30	ISS09	common_area	53.25	49.83	39.0	false	
+31	ISS00	hab_module	25.63	51.29	59.6	false	REPA04
+31	ISS01	common_area	53.24	49.66	65.6	false	
+31	ISS02	common_area	46.43	47.31	61.0	false	
+31	ISS03	common_area	50.99	55.59	69.3	false	
+31	ISS04	common_area	51.11	48.28	52.4	false	
+31	ISS05	common_area	46.84	50.79	59.1	false	
+31	ISS06	common_area	53.9	52.16	42.1	false	
+31	ISS07	common_area	48.25	44.6	59.2	false	
+31	ISS08	common_area	49.14	51.85	63.0	false	REPA04
+31	ISS09	common_area	53.02	48.78	39.5	false	
+32	ISS00	hab_module	26.11	51.58	59.8	false	REPA04
+32	ISS01	common_area	52.95	48.62	56.2	false	
+32	ISS02	common_area	45.75	48.62	68.6	false	
+32	ISS03	common_area	52.75	54.96	60.5	false	
+32	ISS04	common_area	50.49	48.01	42.4	false	
+32	ISS05	common_area	47.27	51.77	55.6	false	
+32	ISS06	common_area	54.4	50.78	41.5	false	
+32	ISS07	common_area	46.59	45.47	51.8	false	
+32	ISS08	common_area	49.79	52.03	60.3	false	REPA04
+32	ISS09	common_area	52.46	47.86	53.8	false	
+33	ISS00	hab_module	26.66	51.7	53.4	false	
+33	ISS01	common_area	52.34	47.74	66.8	false	
+33	ISS02	common_area	45.54	50.08	63.4	false	
+33	ISS03	common_area	54.22	53.8	60.5	false	
+33	ISS04	common_area	49.82	47.96	40.3	false	
+33	ISS05	common_area	48.0	52.56	68.0	false	
+33	ISS06	common_area	54.41	49.3	51.0	false	
+33	ISS07	common_area	45.3	46.83	45.8	false	
+33	ISS08	common_area	50.46	51.99	62.1	false	
+33	ISS09	common_area	51.63	47.18	48.4	false	
+34	ISS00	hab_module	27.22	51.64	68.6	false	
+34	ISS01	common_area	51.48	47.1	56.6	false	
+34	ISS02	common_area	45.81	51.53	68.2	false	
+34	ISS03	common_area	55.22	52.22	69.5	false	
+34	ISS04	common_area	49.17	48.13	54.6	false	
+34	ISS05	common_area	48.94	53.08	50.4	false	
+34	ISS06	common_area	53.94	47.9	52.4	false	CONF05
+34	ISS07	common_area	44.52	48.53	48.6	false	
+34	ISS08	common_area	51.08	51.74	79.8	false	CONF05
+34	ISS09	common_area	50.62	46.8	40.1	false	
+35	ISS00	hab_module	27.73	51.4	51.6	false	
+35	ISS01	common_area	50.45	46.78	51.9	false	
+35	ISS02	common_area	46.53	52.81	57.5	false	
+35	ISS03	common_area	55.66	50.4	66.4	false	
+35	ISS04	common_area	48.6	48.5	53.3	false	
+35	ISS05	common_area	50.0	53.26	47.4	false	
+35	ISS06	common_area	53.04	46.74	46.1	false	CONF05
+35	ISS07	common_area	44.34	50.4	45.2	false	
+35	ISS08	common_area	51.59	51.29	64.8	false	CONF05
+35	ISS09	common_area	49.55	46.78	49.9	false	
+36	ISS00	hab_module	28.13	51.0	50.3	false	
+36	ISS01	common_area	49.38	46.8	63.0	false	
+36	ISS02	common_area	47.63	53.79	65.9	false	
+36	ISS03	common_area	55.48	48.53	59.8	false	
+36	ISS04	common_area	48.19	49.04	41.2	false	
+36	ISS05	common_area	51.06	53.08	53.9	false	
+36	ISS06	common_area	51.82	45.92	45.9	false	REPA05
+36	ISS07	common_area	44.78	52.22	41.3	false	
+36	ISS08	common_area	51.92	50.7	59.6	false	REPA05
+36	ISS09	common_area	48.52	47.1	39.1	false	
+37	ISS00	hab_module	28.38	50.5	41.4	false	
+37	ISS01	common_area	48.37	47.18	69.5	false	
+37	ISS02	common_area	49.0	54.35	55.2	false	
+37	ISS03	common_area	54.7	46.83	67.0	false	
+37	ISS04	common_area	47.98	49.68	52.0	false	
+37	ISS05	common_area	52.0	52.56	50.3	false	
+37	ISS06	common_area	50.39	45.55	47.9	false	REPA05
+37	ISS07	common_area	45.78	53.8	53.8	false	
+37	ISS08	common_area	52.05	50.04	64.2	false	REPA05
+37	ISS09	common_area	47.66	47.74	39.5	false	
+38	ISS00	hab_module	28.45	49.94	61.2	false	
+38	ISS01	common_area	47.54	47.86	50.7	false	
+38	ISS02	common_area	50.47	54.44	59.8	false	
+38	ISS03	common_area	53.41	45.47	53.1	false	
+38	ISS04	common_area	47.99	50.36	34.6	false	
+38	ISS05	common_area	52.73	51.77	58.1	false	
+38	ISS06	common_area	48.92	45.67	45.0	false	REPA05
+38	ISS07	common_area	47.25	54.96	49.7	false	
+38	ISS08	common_area	51.95	49.37	65.2	false	REPA05
+38	ISS09	common_area	47.05	48.62	38.5	false	
+39	ISS00	hab_module	28.34	49.39	61.1	false	
+39	ISS01	hab_module	24.24	48.98	62.7	false	
+39	ISS02	common_area	51.89	54.05	62.7	false	
+39	ISS03	common_area	51.75	44.6	68.6	false	
+39	ISS04	common_area	48.21	50.99	43.4	false	
+39	ISS05	common_area	53.16	50.79	65.5	false	
+39	ISS06	common_area	47.57	46.26	50.0	false	
+39	ISS07	common_area	49.01	55.59	41.7	false	
+39	ISS08	common_area	51.63	48.77	52.1	false	
+39	ISS09	common_area	46.76	49.66	45.1	false	
+40	ISS00	hab_module	28.06	48.9	49.0	false	
+40	ISS01	hab_module	24.04	49.86	61.2	false	
+40	ISS02	common_area	53.1	53.21	70.5	false	
+40	ISS03	common_area	49.9	44.33	61.1	false	
+40	ISS04	common_area	48.63	51.52	43.2	false	
+40	ISS05	common_area	53.24	49.72	54.3	false	
+40	ISS06	common_area	46.48	47.25	49.0	false	
+40	ISS07	common_area	50.89	55.6	45.3	false	
+40	ISS08	common_area	51.14	48.3	63.2	false	
+40	ISS09	common_area	46.83	50.73	54.3	false	
+41	ISS00	hab_module	27.63	48.54	51.1	false	
+41	ISS01	hab_module	24.14	50.75	55.6	false	
+41	ISS02	common_area	53.98	52.03	58.7	false	
+41	ISS03	common_area	48.06	44.67	76.6	false	
+41	ISS04	common_area	49.2	51.88	42.6	false	
+41	ISS05	common_area	52.97	48.68	48.0	false	
+41	ISS06	common_area	45.78	48.55	59.5	false	
+41	ISS07	common_area	52.66	55.01	62.2	false	
+41	ISS08	common_area	50.53	48.02	73.6	false	
+41	ISS09	common_area	47.24	51.72	44.7	false	
+42	ISS00	hab_module	27.1	48.33	57.8	false	
+42	ISS01	hab_module	24.53	51.56	48.5	false	
+42	ISS02	common_area	54.42	50.62	56.4	false	
+42	ISS03	common_area	46.43	45.59	60.5	false	
+42	ISS04	common_area	49.86	52.04	52.7	false	
+42	ISS05	common_area	52.38	47.78	44.3	false	
+42	ISS06	common_area	45.54	50.0	53.0	false	
+42	ISS07	common_area	54.15	53.87	56.4	false	
+42	ISS08	common_area	49.86	47.96	66.0	false	
+42	ISS09	common_area	47.95	52.53	39.9	false	
+43	ISS00	hab_module	26.54	48.31	47.9	false	
+43	ISS01	hab_module	25.16	52.19	55.5	false	
+43	ISS02	common_area	54.38	49.15	49.0	false	
+43	ISS03	common_area	45.19	46.99	55.9	false	
+43	ISS04	common_area	50.53	51.98	45.2	false	
+43	ISS05	common_area	51.53	47.13	47.2	false	
+43	ISS06	common_area	45.78	51.45	36.8	false	
+43	ISS07	common_area	55.18	52.31	54.8	false	
+43	ISS08	common_area	49.2	48.12	51.5	false	
+43	ISS09	common_area	48.89	53.06	32.6	false	
+44	ISS00	hab_module	26.0	48.47	43.4	false	
+44	ISS01	hab_module	25.96	52.59	57.5	false	
+44	ISS02	common_area	53.87	47.77	61.5	false	
+44	ISS03	common_area	44.47	48.72	70.6	false	
+44	ISS04	common_area	51.14	51.7	40.4	false	
+44	ISS05	common_area	50.51	46.79	65.7	false	
+44	ISS06	common_area	46.48	52.75	49.9	false	
+44	ISS07	common_area	55.65	50.49	52.4	false	
+44	ISS08	common_area	48.63	48.48	54.1	false	
+44	ISS09	common_area	49.94	53.25	56.2	false	
+45	ISS00	hab_module	25.54	48.79	51.9	false	
+45	ISS01	hab_module	26.84	52.71	68.1	false	
+45	ISS02	common_area	52.93	46.63	62.7	false	
+45	ISS03	common_area	44.36	50.59	61.8	false	
+45	ISS04	common_area	51.63	51.23	38.0	false	
+45	ISS05	common_area	49.43	46.79	53.0	false	
+45	ISS06	common_area	47.57	53.74	40.4	false	
+45	ISS07	common_area	55.5	48.63	44.5	false	
+45	ISS08	common_area	48.21	49.01	68.5	false	
+45	ISS09	common_area	51.01	53.1	38.8	false	
+46	ISS00	hab_module	25.22	49.25	54.7	false	
+46	ISS01	hab_module	27.72	52.53	53.8	false	
+46	ISS02	common_area	51.67	45.86	61.5	false	
+46	ISS03	common_area	44.86	52.4	76.7	false	
+46	ISS04	common_area	51.95	50.63	39.4	false	
+46	ISS05	common_area	48.42	47.15	54.4	false	
+46	ISS06	common_area	48.92	54.33	60.1	false	
+46	ISS07	common_area	54.76	46.91	43.8	false	
+46	ISS08	common_area	47.99	49.64	75.2	false	CONF06
+46	ISS09	common_area	51.96	52.6	63.9	false	CONF06
+47	ISS00	hab_module	25.06	49.79	68.1	false	
+47	ISS01	hab_module	28.49	52.08	62.3	false	
+47	ISS02	common_area	50.23	45.54	66.8	false	
+47	ISS03	common_area	45.92	53.94	74.0	false	
+47	ISS04	common_area	52.05	49.96	59.2	false	
+47	ISS05	common_area	47.58	47.82	59.5	false	
+47	ISS06	common_area	50.39	54.45	57.9	false	
+47	ISS07	common_area	53.49	45.53	49.4	false	
+47	ISS08	common_area	47.98	50.32	71.4	false	CONF06
+47	ISS09	common_area	52.7	51.82	52.6	false	CONF06
+48	ISS00	hab_module	25.08	50.35	55.1	false	
+48	ISS01	hab_module	29.08	51.4	67.6	false	
+48	ISS02	common_area	48.77	45.71	55.2	false	
+48	ISS03	common_area	47.42	55.05	63.8	false	
+48	ISS04	common_area	51.92	49.3	39.3	false	
+48	ISS05	common_area	47.0	48.73	62.6	false	
+48	ISS06	common_area	51.82	54.08	58.9	false	
+48	ISS07	common_area	51.85	44.64	60.6	false	
+48	ISS08	common_area	48.19	50.96	67.6	false	CONF06
+48	ISS09	common_area	53.14	50.84	47.7	false	CONF06
+49	ISS00	hab_module	25.29	50.88	41.3	false	
+49	ISS01	hab_module	29.4	50.56	47.9	false	
+49	ISS02	common_area	47.44	46.34	58.5	false	
+49	ISS03	common_area	49.21	55.62	51.3	false	
+49	ISS04	common_area	51.59	48.71	49.4	false	
+49	ISS05	common_area	46.75	49.77	59.7	false	
+49	ISS06	common_area	53.04	53.26	45.0	false	
+49	ISS07	common_area	50.0	44.33	41.1	false	
+49	ISS08	common_area	48.6	51.5	55.8	false	REPA06
+49	ISS09	common_area	53.25	49.77	51.4	false	REPA06
+50	ISS00	hab_module	25.65	51.31	45.2	false	
+50	ISS01	hab_module	29.44	49.67	55.1	false	
+50	ISS02	common_area	46.39	47.38	62.4	false	
+50	ISS03	common_area	51.08	55.57	59.0	false	
+50	ISS04	common_area	51.08	48.26	36.0	false	
+50	ISS05	common_area	46.86	50.84	42.8	false	
+50	ISS06	common_area	53.94	52.1	44.2	false	
+50	ISS07	common_area	48.15	44.64	49.1	false	
+50	ISS08	common_area	49.17	51.87	55.8	false	REPA06
+50	ISS09	common_area	53.0	48.73	48.9	false	REPA06
